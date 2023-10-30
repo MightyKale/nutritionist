@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-dark_green-15">
       <div className="max-container py-8 px-4 md:px-12">
         <div className="flex flex-wrap md:flex-row justify-between items-center">
-        <Image src='/logo.png' alt="logo" height={45} width={195}/>
+        <Image src='/Logo.png' alt="logo" height={45} width={195}/>
     
         <div className="flex justify-wrap gap-2 md:gap-5">
         {footerLinks.map((link) => (
