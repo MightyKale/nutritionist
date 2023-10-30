@@ -7,7 +7,7 @@ const Header = () => {
         <div className="max-container border-2 border-[#2C5446] bg-dark_green-25 flexBetween rounded-md">
             <Image src='/path.png' alt="path" width={195} height={100} className="color-green-70 overflow-hidden ml-6 hidden md:inline-block"/>
             <div className="flex-1 flexCenter gap-2 max-w-[1596px] max-h-[44px]">
-                <Image src='/icon.png' alt="icon" width={24} height={24}/>
+                <Image src='/Icon.png' alt="icon" width={24} height={24}/>
                 <p className="text-white text-[12px] md:text-[16px] lg:text-[18px]">Join Our Personalized Nutrition Demo For Free</p>
                 <Image src='/arrow_right.png' alt="icon" width={24} height={24} className="ml-2"/>
             </div>
@@ -15,7 +15,7 @@ const Header = () => {
         </div>
         <div className="bg-dark_green-40 h-[0.5px] opacity-40 mt-2 w-full"/>
         <div className="mt-6 flexBetween max-container">
-          <Image src='/logo.png' alt="logo" height={16.5} width={140.8}/>
+          <Image src='/Logo.png' alt="logo" height={16.5} width={140.8}/>
           <Image src='/hamburger.png' alt="menu" width={25.5} height={17} className="md:hidden inline-block"/>
           <div className="hidden md:flexBetween gap-6 lg:gap-10">
             <ul className="flexBetween gap-6 lg:gap-10">
